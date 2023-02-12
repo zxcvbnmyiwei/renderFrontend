@@ -1,0 +1,53 @@
+.dropdown {
+    text-align: center;
+    /*These options are for the div to be visible in the example, the important is the first*/
+    width: auto;
+    height: 40px;
+}
+
+
+
+  .contentContainer  {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+  }
+
+.itemsInContainer {
+    padding: 0px;
+}
+
+.text {
+    /* text-align: center; */
+    /* border: 3px solid rgb(0, 3, 0); */
+
+}
+
+.Interpreter {
+    padding: 10px
+}
+
+
+.buttonContainer  {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  
+
+}
+
+.buttonClass {
+  height: 60px;
+  width: 300px;
+  margin-bottom: 25px;
+}
+
+/* .nextButton {
+  position:absolute;
+   top:100px;
+   right:0;
+   height: 50px;
+   width: 200px;
+} */

@@ -1,0 +1,10 @@
+/* .ant-tabs-nav-scroll {
+    display: flex;
+    justify-content: center;
+  } */
+
+.multifile-main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

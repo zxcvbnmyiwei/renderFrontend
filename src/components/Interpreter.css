@@ -1,0 +1,11 @@
+
+.form-control{
+  margin-top: 50px;
+}
+
+
+.inner {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}

@@ -1,0 +1,10 @@
+.center {
+    margin: auto;
+    width: 30%;
+    /* border: 3px solid green; */
+    padding: 10px;
+  }
+
+  .cm-line {
+    margin-left: 0px;
+  }

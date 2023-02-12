@@ -1,0 +1,18 @@
+/* .div-for-tk-component{
+    width: 1050px;
+    height:800px;
+} */
+
+.main-tk-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.right-component-div {
+    width: 250px;
+}
+
+.content-div-for-info {
+    background-color: antiquewhite;
+    border: 1px solid black;
+}
